@@ -22,16 +22,50 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/8e53a727-a06b-4a8c-8a89-d79080ad7369" />
 🛠️ How to Use This Project
 1. Clone the repository
-   git clone [https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git](https://github.com/your-username/CUSTOMER_BEHAVIOR_ANALYSIS.git)
-   
 
+git clone [https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git](https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git)
 
+2.Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
+This file contains:
 
+Data Import
 
+Data exploration
 
+Data cleaning
 
+Connection to SQL Database
 
+3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+
+Create a database in SQL
+
+Run Python code to load data into SQL database
+
+Open customer_behavior_sql_queries.sql
+
+Answer Business Questions using SQL Queries
+
+4. Connect the SQL Database to Power BI
+
+Open customer_behavior_dashboard.pbix
+
+Create interactive dashboard in Power BI
+
+5.Create Project Report and Presentation
+
+Create project report
+
+Build presentation deck using Gamma AI 
+
+📜 License
+MIT — feel free to fork, star, and use in your portfolio.
+
+👨‍💻 About the Author
+Hey, I’m Deepak Singh, a Data Analyst. I break down complex data topics into simple, practical content that actually helps you land a job.
+
+💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
 
 
 
