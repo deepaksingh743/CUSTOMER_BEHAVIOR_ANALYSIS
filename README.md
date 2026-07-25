@@ -20,6 +20,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/8e53a727-a06b-4a8c-8a89-d79080ad7369" />
+🛠️ How to Use This Project
+1. Clone the repository
+   git clone [https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git](https://github.com/your-username/CUSTOMER_BEHAVIOR_ANALYSIS.git)
+   
 
 
 
