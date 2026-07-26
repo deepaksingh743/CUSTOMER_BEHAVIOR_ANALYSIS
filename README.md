@@ -29,13 +29,13 @@ The goal of this project is to simulate a corporate-grade data analytics workflo
    ```bash
    git clone [https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git](https://github.com/deepaksingh743/CUSTOMER_BEHAVIOR_ANALYSIS.git)
 
-  ##1. Open the Jupyter Notebook (Customer_Shopping_Behavior_Analysis.ipynb):
+  ## 1. Open the Jupyter Notebook (Customer_Shopping_Behavior_Analysis.ipynb):
 
 Data Import & Exploration
 
 Data Cleaning & Transformation
 
-##2.Connecting Python to the SQL Database
+## 2.Connecting Python to the SQL Database
 
 Load Data & Run SQL Queries:
 
@@ -45,20 +45,20 @@ Run the Python script to load data into your SQL database.
 
 Open customer_behavior_sql_queries.sql to answer core business questions.
 
-##3.Connect SQL to Power BI:
+## 3.Connect SQL to Power BI:
 
 Open customer_behavior_dashboard.pbix.
 
 Explore the interactive dashboard.
 
-##4.Generate Reports & Presentations:
+## 4.Generate Reports & Presentations:
 
 Review project documentation and presentation decks built using Gamma AI.
 
-##📜 License
+## 📜 License
 __MIT License__ — feel free to fork, star, and use this project in your portfolio.
 
-##👨‍💻 About the Author
+## 👨‍💻 About the Author
 Hey, I’m __Deepak Singh__, a Data Analyst. I break down complex data topics into simple, practical content that actually helps you land a job.
 
-###__💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics. 🚀__###
+### 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics. 🚀
